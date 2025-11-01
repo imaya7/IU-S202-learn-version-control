@@ -40,5 +40,11 @@
     "scientificName": "Mephitis mephitis",
     "habitat": "Wooded areas, grasslands, and urban areas",
     "description": "A small mammal known for its ability to spray a foul-smelling liquid when threatened and is characterized by its white and black striped coloration."
+  },
+  {
+    "commonName": "Immortal Jellyfish",
+    "scientificName": "Turritopsis dohrnii",
+    "habitat": "native to the mediterranean sea but can be found in oceans worldwide",
+    "description": "A small jellyfish known for its unique ability to revert to its juvenile form after maturing, effectively allowing it to bypass death."
   }
 ]
