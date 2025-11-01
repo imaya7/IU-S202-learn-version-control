@@ -34,5 +34,11 @@
     "scientificName": "Vulpes zerda",
     "habitat": "Arid regions and sandy deserts of North Africa",
     "description": "A small nocturnal fox with large ears, known for their exceptional hearing to locate prey."
+  },
+  {
+    "commonName": "Striped Skunk",
+    "scientificName": "Mephitis mephitis",
+    "habitat": "Wooded areas, grasslands, and urban areas",
+    "description": "A small mammal known for its ability to spray a foul-smelling liquid when threatened and is characterized by its white and black striped coloration."
   }
 ]
