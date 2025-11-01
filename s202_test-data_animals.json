@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Fennec Fox",
+    "scientificName": "Vulpes zerda",
+    "habitat": "Arid regions and sandy deserts of North Africa",
+    "description": "A small nocturnal fox with large ears, known for their exceptional hearing to locate prey."
   }
 ]
